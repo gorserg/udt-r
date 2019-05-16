@@ -1,0 +1,21 @@
+[package]
+authors = ["Serhii Horobets <serhii.horobets82@gmail.com>"]
+categories = ["command-line-utilities"]
+description = "A command-line useful utility"
+homepage = "https://github.com/gorserg/udt-r"
+license = "MIT/Apache-2.0"
+name = "udt"
+readme = "README.md"
+repository = "https://github.com/gorserg/udt-r"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ansi_term = "0.11"
+
+[dependencies.clap]
+version = "2"
+features = ["suggestions", "color", "wrap_help"]
+
+[dependencies.chrono]
+version = "0.4"
