@@ -1,12 +1,29 @@
 extern crate clap;
 
-use clap::{App, AppSettings, Arg};
-
-use ansi_term::Color;
-use ansi_term::Color::Fixed;
+mod cli;
 
 fn run() -> Result<(), Box<dyn std::error::Error>> {
-    Ok(())
+    let matches = cli::get_matches();
+
+    println!(
+        "Debugging mode is: {}",
+        if matches.is_present("debug") {
+            "ON"
+        } else {
+            "OFF"
+        }
+    );
+
+    match matches.subcommand() {
+        ("test", Some(sub_matches)) => {
+            println!("{:}", sub_matches.usage());
+            Ok(())
+        }
+        _ => {
+            println!("{:}", matches.usage());
+            Ok(())
+        }
+    }
 }
 
 fn main() {
