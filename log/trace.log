@@ -1,0 +1,158 @@
+2019-05-21T11:50:23.151665400+03:00 - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.21 0.21 0.21"}
+2019-05-21T12:03:27.296987600+03:00 - ----------------------------------------------------2019-05-21T12:03:27.302988500+03:00 - App started2019-05-21T12:03:27.303489900+03:00 - Options: {"run_server":false,"host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}2019-05-21T12:03:28.211829200+03:00 - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.21 0.21 0.21"}2019-05-21T12:06:35.748955700+03:00 INFO udt - ----------------------------------------------------
+2019-05-21T12:06:35.757452900+03:00 INFO udt - App started
+2019-05-21T12:06:35.757952400+03:00 INFO udt - Options: {"run_server":false,"host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T12:06:36.167323800+03:00 INFO udt - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.21 0.21 0.21"}
+2019-05-21T12:12:20.433332100+03:00 - ----------------------------------------------------
+2019-05-21T12:12:20.437832900+03:00 - App started
+2019-05-21T12:12:20.438332500+03:00 - Options: {"run_server":false,"host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T12:12:20.840853700+03:00 - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.21 0.21 0.21"}
+2019-05-21T12:43:38.807049100+03:00 INFO - ----------------------------------------------------
+2019-05-21T12:43:38.814551800+03:00 INFO - App started
+2019-05-21T12:43:38.815053900+03:00 INFO - Options: {"run_server":false,"host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T12:43:39.323556100+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.21 0.21 0.21","disk_info":"3804464/249095164"}
+2019-05-21T12:43:43.611612400+03:00 INFO - ----------------------------------------------------
+2019-05-21T12:43:43.636111700+03:00 INFO - App started
+2019-05-21T12:43:43.636611200+03:00 INFO - Options: {"run_server":false,"host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T12:43:44.526623400+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.21 0.21 0.21","disk_info":"3802868/249095164"}
+2019-05-21T13:18:07.600197600+03:00 INFO - ----------------------------------------------------
+2019-05-21T13:18:07.608204700+03:00 INFO - App started
+2019-05-21T13:18:07.608704200+03:00 INFO - Options: {"run_server":false,"host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T13:18:07.949706400+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"2674488/249095164"}
+2019-05-21T13:18:14.698561800+03:00 INFO - ----------------------------------------------------
+2019-05-21T13:18:14.703559900+03:00 INFO - App started
+2019-05-21T13:18:14.704062500+03:00 INFO - Options: {"run_server":true,"host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T13:18:14.955563900+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"2674420/249095164"}
+2019-05-21T16:45:00.678489+03:00 INFO - ----------------------------------------------------
+2019-05-21T16:45:00.682455500+03:00 INFO - App started
+2019-05-21T16:45:00.682956200+03:00 INFO - Options: {"run_server":false,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T16:45:01.753335300+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.23 0.23 0.23","disk_info":"1537728/249095164"}
+2019-05-21T16:53:28.277771900+03:00 INFO - ----------------------------------------------------
+2019-05-21T16:53:28.283771700+03:00 INFO - App started
+2019-05-21T16:53:28.284271300+03:00 INFO - Options: {"run_server":false,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T16:53:28.885738100+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.23 0.23 0.23","disk_info":"1538476/249095164"}
+2019-05-21T17:09:05.274566400+03:00 INFO - ----------------------------------------------------
+2019-05-21T17:09:05.279586+03:00 INFO - App started
+2019-05-21T17:09:05.280087400+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T17:09:05.673599600+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.23 0.23 0.23","disk_info":"1548216/249095164"}
+2019-05-21T17:25:32.316773900+03:00 INFO - ----------------------------------------------------
+2019-05-21T17:25:32.329275400+03:00 INFO - App started
+2019-05-21T17:25:32.335775900+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T17:25:32.811781400+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.23 0.23 0.23","disk_info":"1535928/249095164"}
+2019-05-21T17:36:57.068707+03:00 INFO - ----------------------------------------------------
+2019-05-21T17:36:57.088705500+03:00 INFO - App started
+2019-05-21T17:36:57.089203100+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T17:36:57.733589800+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"1532908/249095164"}
+2019-05-21T18:04:21.849629200+03:00 INFO - ----------------------------------------------------
+2019-05-21T18:04:21.855628+03:00 INFO - App started
+2019-05-21T18:04:21.856133600+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T18:04:22.453972+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"715744/249095164"}
+2019-05-21T18:07:03.299705600+03:00 INFO - ----------------------------------------------------
+2019-05-21T18:07:03.305205600+03:00 INFO - App started
+2019-05-21T18:07:03.305703600+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T18:07:03.674096800+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"2207044/249095164"}
+2019-05-21T18:07:37.118852400+03:00 INFO - ----------------------------------------------------
+2019-05-21T18:07:37.124352700+03:00 INFO - App started
+2019-05-21T18:07:37.124352700+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T18:07:37.321040500+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"2206836/249095164"}
+2019-05-21T18:18:14.186564600+03:00 INFO - ----------------------------------------------------
+2019-05-21T18:18:14.207564400+03:00 INFO - App started
+2019-05-21T18:18:14.220564+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-21T18:18:14.662069500+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"2271948/249095164"}
+2019-05-22T10:49:26.635444500+03:00 INFO - ----------------------------------------------------
+2019-05-22T10:49:26.641443900+03:00 INFO - App started
+2019-05-22T10:49:26.641943100+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T10:49:26.922067900+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47573212/249095164"}
+2019-05-22T10:52:43.595260600+03:00 INFO - ----------------------------------------------------
+2019-05-22T10:52:43.602781800+03:00 INFO - App started
+2019-05-22T10:52:43.602781800+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T10:52:44.140655500+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47582328/249095164"}
+2019-05-22T10:55:58.912791700+03:00 INFO - ----------------------------------------------------
+2019-05-22T10:55:58.916795300+03:00 INFO - App started
+2019-05-22T10:55:58.916795300+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T10:55:59.445064+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47581984/249095164"}
+2019-05-22T11:19:21.099658+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:19:21.105175300+03:00 INFO - App started
+2019-05-22T11:19:21.105175300+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:19:21.461023800+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47411604/249095164"}
+2019-05-22T11:20:05.002337+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:20:05.006839700+03:00 INFO - App started
+2019-05-22T11:20:05.006839700+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:20:05.508788500+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47411824/249095164"}
+2019-05-22T11:25:43.682130+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:25:43.687631+03:00 INFO - App started
+2019-05-22T11:25:43.687631+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:25:44.020286300+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47411844/249095164"}
+2019-05-22T11:27:09.871688500+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:27:09.875705600+03:00 INFO - App started
+2019-05-22T11:27:09.876206700+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:27:10.424416+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47411176/249095164"}
+2019-05-22T11:31:15.180195600+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:31:15.194194900+03:00 INFO - App started
+2019-05-22T11:31:15.200198500+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:31:15.668479400+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47408904/249095164"}
+2019-05-22T11:37:08.129464600+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:37:08.133461400+03:00 INFO - App started
+2019-05-22T11:37:08.133962400+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:37:08.484925400+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47405260/249095164"}
+2019-05-22T11:40:25.850965+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:40:25.856462600+03:00 INFO - App started
+2019-05-22T11:40:25.856462600+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:40:26.215347+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47404364/249095164"}
+2019-05-22T11:44:28.591218100+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:44:28.597714100+03:00 INFO - App started
+2019-05-22T11:44:28.599714200+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:44:29.068597300+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47403844/249095164"}
+2019-05-22T11:47:30.680068600+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:47:30.685069+03:00 INFO - App started
+2019-05-22T11:47:30.685567400+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:47:31.065406800+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47403488/249095164"}
+2019-05-22T11:50:54.335413600+03:00 INFO - ----------------------------------------------------
+2019-05-22T11:50:54.340093700+03:00 INFO - App started
+2019-05-22T11:50:54.340594800+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T11:50:54.724603100+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47401904/249095164"}
+2019-05-22T12:00:15.570505600+03:00 INFO - ----------------------------------------------------
+2019-05-22T12:00:15.582004700+03:00 INFO - App started
+2019-05-22T12:00:15.582504600+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T12:00:16.390514100+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.22 0.22 0.22","disk_info":"47401812/249095164"}
+2019-05-22T16:50:04.205127400+03:00 INFO - ----------------------------------------------------
+2019-05-22T16:50:04.212125900+03:00 INFO - App started
+2019-05-22T16:50:04.212630400+03:00 INFO - Options: {"run_server":true,"server_type":"Simple","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T16:50:04.827080+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"44705196/249095164"}
+2019-05-22T16:51:51.929976500+03:00 INFO - ----------------------------------------------------
+2019-05-22T16:51:52.065975+03:00 INFO - App started
+2019-05-22T16:51:52.108475400+03:00 INFO - Options: {"run_server":true,"server_type":"Actix","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T16:51:52.881979200+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"44704260/249095164"}
+2019-05-22T16:56:03.179867800+03:00 INFO - ----------------------------------------------------
+2019-05-22T16:56:03.187389300+03:00 INFO - App started
+2019-05-22T16:56:03.188889100+03:00 INFO - Options: {"run_server":true,"server_type":"Actix","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T16:56:03.855553600+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"44702556/249095164"}
+2019-05-22T16:56:03.858056200+03:00 INFO - Start actix
+2019-05-22T16:56:03.860056300+03:00 INFO - Stop actix
+2019-05-22T18:42:26.468352700+03:00 INFO - ----------------------------------------------------
+2019-05-22T18:42:26.475363800+03:00 INFO - App started
+2019-05-22T18:42:26.475363800+03:00 INFO - Options: {"run_server":true,"server_type":"Actix","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T18:42:27.086665200+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"45718264/249095164"}
+2019-05-22T18:42:27.087167500+03:00 INFO - Start actix
+2019-05-22T18:42:27.093677500+03:00 INFO - Starting 4 workers
+2019-05-22T18:42:27.097203600+03:00 INFO - Starting server on 127.0.0.1:8088
+2019-05-22T18:43:16.944973+03:00 INFO - SIGINT received, exiting
+2019-05-22T18:43:16.945976+03:00 INFO - Shutting down worker, 0 connections
+2019-05-22T18:43:16.945976+03:00 INFO - Shutting down worker, 0 connections
+2019-05-22T18:43:16.945976+03:00 INFO - Shutting down worker, 0 connections
+2019-05-22T18:43:16.946615500+03:00 INFO - Shutting down worker, 0 connections
+2019-05-22T18:58:26.099826400+03:00 INFO - ----------------------------------------------------
+2019-05-22T18:58:26.104326900+03:00 INFO - App started
+2019-05-22T18:58:26.105326400+03:00 INFO - Options: {"run_server":true,"server_type":"Actix","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T18:58:26.764947100+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"45877672/249095164"}
+2019-05-22T18:58:26.765448200+03:00 INFO - Start actix
+2019-05-22T18:58:26.771446500+03:00 INFO - Starting 4 workers
+2019-05-22T18:58:26.776470300+03:00 INFO - Starting server on 127.0.0.1:8088
+2019-05-22T19:09:01.605524600+03:00 INFO - SIGINT received, exiting
+2019-05-22T19:09:51.064361400+03:00 INFO - ----------------------------------------------------
+2019-05-22T19:09:51.070373300+03:00 INFO - App started
+2019-05-22T19:09:51.071378400+03:00 INFO - Options: {"run_server":true,"server_type":"Actix","host":"localhost","port":3000,"debug":false,"log_file":"trace.log"}
+2019-05-22T19:09:51.688589300+03:00 INFO - Host info: {"os_version":"6.2","os_name":"Windows","hostname":"ICGUA-PC-455","mac_address":"D4:81:D7:FF:3E:D9","load_avg":"0.24 0.24 0.24","disk_info":"45869300/249095164"}
+2019-05-22T19:09:51.689089200+03:00 INFO - Start actix
+2019-05-22T19:09:51.696093+03:00 INFO - Starting 4 workers
+2019-05-22T19:09:51.704610900+03:00 INFO - Starting server on 127.0.0.1:8088

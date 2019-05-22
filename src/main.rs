@@ -1,29 +1,31 @@
+#[macro_use]
+extern crate log;
 extern crate clap;
+extern crate env_logger;
+extern crate log4rs;
+#[macro_use]
+extern crate serde_derive;
+extern crate serde_json;
 
 mod cli;
+mod logger;
+mod server;
+mod sys_info;
 
 fn run() -> Result<(), Box<dyn std::error::Error>> {
-    let matches = cli::get_matches();
+    // application options
+    let options = cli::Options::new();
+    // init logger (file + console)
+    logger::init(options.log_file.as_str());
 
-    println!(
-        "Debugging mode is: {}",
-        if matches.is_present("debug") {
-            "ON"
-        } else {
-            "OFF"
-        }
-    );
-
-    match matches.subcommand() {
-        ("test", Some(sub_matches)) => {
-            println!("{:}", sub_matches.usage());
-            Ok(())
-        }
-        _ => {
-            println!("{:}", matches.usage());
-            Ok(())
-        }
+    info!("----------------------------------------------------");
+    info!("App started");
+    info!("Options: {}", options);
+    info!("Host info: {}", sys_info::SystemInfo::new());
+    if options.run_server {
+        server::start(options);
     }
+    Ok(())
 }
 
 fn main() {
@@ -31,5 +33,5 @@ fn main() {
     #[cfg(windows)]
     let _ = ansi_term::enable_ansi_support();
 
-    let result = run();
+    let _result = run();
 }
